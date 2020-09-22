@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: yfoptions-dl
+Version: 1.0.0
+Summary: Download option data from Yahoo Finance
+Home-page: https://github.com/realpython/reader
+Author: Jay
+Author-email: pythoninoffice@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown

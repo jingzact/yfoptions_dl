@@ -11,10 +11,10 @@ README = (HERE / "README.md").read_text()
 setup(
     name="yfoptions_dl",
     version="1.0.0",
-    description="Download option data from Yahoo Finance",
+    description="Download option chain data from Yahoo Finance",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/realpython/reader",
+    url="https://github.com/jingzact/yfoptions_dl",
     author="Jay",
     author_email="pythoninoffice@gmail.com",
     license="MIT",
@@ -28,9 +28,4 @@ setup(
     install_requires=["pandas >= 1.0.0",
                       "requests > 2.23.0"
                       ],
-    #entry_points={
-    #    "console_scripts": [
-    #        "realpython=reader.__main__:main",
-    #    ]
-    #},
 )
